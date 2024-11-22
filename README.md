@@ -1,24 +1,44 @@
-# collectible-sneakers
+# Collectible Sneakers
 
-## Project setup
+## Prerequisites
+
+To run this project, ensure you have the following installed on your machine:
+
+- Node.js: v18.14.1
+- npm: v9.8.1
+
+## Project Setup
+
+Navigate into the project directory and run:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Available Scripts
+
+### Run the development server:
+To start the application in development mode, simply run:
+
 ```
 npm run serve
 ```
+This will compile and hot-reload the application for development.
 
-### Compiles and minifies for production
+
+###  Build for production:
+To compile and minify the project for production, use:
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+###  Lint the code:
+To run linting and auto-fix any issues, use:
+
 ```
 npm run lint
 ```
 
-### Customize configuration
+## License
 See [Configuration Reference](https://cli.vuejs.org/config/).
