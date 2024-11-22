@@ -18,7 +18,7 @@
               egestas dolor orci.
             </li>
           </ul>
-          <a href="#" class="button-link">Sign Up Now</a>
+          <a href="#" class="button-link">Sign up now</a>
         </div>
 
         <div class="col-md-6 image-container">
